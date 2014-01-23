@@ -1,0 +1,9 @@
+Building HamburgerCoin
+
+See doc/readme-qt.rst for instructions on building HamburgerCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HamburgerCoin.
+
+See doc/build-*.txt for instructions on building HamburgerCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HamburgerCoin.
